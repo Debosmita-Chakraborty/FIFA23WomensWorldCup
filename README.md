@@ -26,6 +26,7 @@ New Skills Learnt:
 *    The Poisson distribution is a discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time or space. Here, a goal is an event that might happen in the 90 minutes of a football match, and we could calculate the probability of the number of goals that could be scored in a match between two given teams.
 *    A major roadblock that I faced, apart from the updating webpages, was my predictive model. I struggled a lot with different machine learning models, but then found that a simple statistical model is all I needed (shoutout to <a href='https://thepycoach.com/'>PyCoach's article on Towards Data Science</a>!).
 *    Another problem was effectively scraping similar data from multiple webpages (one for each world cup year). I knew a little web scraping such as how to do web scraping for one page but not for multiple pages, especially when they are not simply one large table that's been paginated, but different webpages altogether. I was doing a lot of repetitive work before realising that I could just use a function and a formatted string to replace the world cup year.
+*    Edit: Even though the USA didn't win (Hooray for Spain!) I'm still happy with my project. I learnt a lot, got the chance to further strengthen my grasp of statistics and probability fundamentals, and enjoyed a thrilling world cup tournament. Here's to next time!   
 
 ## Sources
 * https://en.wikipedia.org/wiki/2023_FIFA_Women's_World_Cup
